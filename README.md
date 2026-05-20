@@ -23,3 +23,9 @@ Open a PR to add more tools!
 
 ## License
 CC0 1.0 Universal
+
+---
+
+## 🌐 All-in-One PDF Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools including the most comprehensive free PDF suite: merge, split, compress (to any size), sign (draw/type/image), OCR (20+ languages, searchable PDF), redact, rotate, watermark, flatten, unlock, page numbers, header/footer, grayscale, crop. Zero upload, no account, no watermark.
