@@ -3,6 +3,7 @@
 The best free online PDF tools. No installation needed.
 
 ## Convert
+- [Doc2X](https://doc2x.noedgeai.com/) - PDF/image OCR to Word, Markdown and LaTeX; limited recurring free parsing allowance, account required; cloud processing, paid upgrades and separately billed API.
 - [PDF to Word](https://the-pdf.com/tools/pdf-to-word/) - Convert PDF to DOCX
 - [Word to PDF](https://the-pdf.com/tools/word-to-pdf/) - Convert DOCX to PDF
 - [PDF to JPG](https://the-pdf.com/tools/pdf-to-jpg/) - Extract images from PDF
