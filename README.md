@@ -7,7 +7,7 @@ The best free online PDF tools. No installation needed.
 - [Word to PDF](https://the-pdf.com/tools/word-to-pdf/) - Convert DOCX to PDF
 - [PDF to JPG](https://the-pdf.com/tools/pdf-to-jpg/) - Extract images from PDF
 - [Excel to PDF](https://the-pdf.com/tools/excel-to-pdf/) - Spreadsheet to PDF
-
+- [Quick PDF Converter](https://quickpdfconvrt.com) - Free online tool to convert, merge, compress, and edit PDF files.
 ## Edit
 - [Merge PDF](https://the-pdf.com/tools/merge-pdf/) - Combine multiple PDFs
 - [Split PDF](https://the-pdf.com/tools/split-pdf/) - Split PDF into pages
