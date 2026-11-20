@@ -6,6 +6,7 @@ The best free online PDF tools. No installation needed.
 - [PDF to Word](https://the-pdf.com/tools/pdf-to-word/) - Convert PDF to DOCX
 - [Word to PDF](https://the-pdf.com/tools/word-to-pdf/) - Convert DOCX to PDF
 - [PDF to JPG](https://the-pdf.com/tools/pdf-to-jpg/) - Extract images from PDF
+- [zippic](https://zippic.app/pdf-to-image) - Convert a PDF into one long image (JPG/PNG) in the browser, no upload, no signup.
 - [Excel to PDF](https://the-pdf.com/tools/excel-to-pdf/) - Spreadsheet to PDF
 
 ## Edit
